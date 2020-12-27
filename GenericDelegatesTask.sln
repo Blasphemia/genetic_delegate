@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericDelegatesTask", "GenericDelegatesTask\GenericDelegatesTask.csproj", "{7A1D7F1D-0723-4E3D-BFBE-9B482B4CEA71}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericDelegatesTask.Tests", "GenericDelegatesTask.Tests\GenericDelegatesTask.Tests.csproj", "{3D88D501-3813-4BA1-8881-014AE6710222}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A1D7F1D-0723-4E3D-BFBE-9B482B4CEA71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A1D7F1D-0723-4E3D-BFBE-9B482B4CEA71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A1D7F1D-0723-4E3D-BFBE-9B482B4CEA71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A1D7F1D-0723-4E3D-BFBE-9B482B4CEA71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D88D501-3813-4BA1-8881-014AE6710222}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D88D501-3813-4BA1-8881-014AE6710222}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D88D501-3813-4BA1-8881-014AE6710222}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D88D501-3813-4BA1-8881-014AE6710222}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46075CF4-6639-40C2-BA85-2B4C52B2992A}
+	EndGlobalSection
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = Generics.vsmdi
+	EndGlobalSection
+EndGlobal
